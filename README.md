@@ -51,7 +51,6 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://sosmedboost.com/"><img src="https://img.shields.io/badge/Website-sosmedboost.com-informational?style=for-the-badge" /></a>
   <a href="https://www.instagram.com/zeejiwo87/"><img src="https://img.shields.io/badge/Instagram-@zeejiwo87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="http://wa.me/6285876846768"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/zeejiwo87"><img src="https://img.shields.io/badge/GitHub-zeejiwo87-181717?style=for-the-badge&logo=github" /></a>
@@ -60,6 +59,6 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 ---
 
 ### 🤝 Open to Collaboration
-Butuh **Full Stack Developer** atau tim untuk membangun produk Anda?  
+Butuh tim untuk membangun produk Anda?  
 **VHtear** – Web/Mobile App • API • Cloud • Maintenance  
 Hubungi: DM Instagram atau WhatsApp di atas.
