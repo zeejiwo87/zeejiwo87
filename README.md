@@ -40,7 +40,7 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zeejiwo87&show_icons=true&hide_title=true&include_all_commits=true&hide=stars&rank_icon=github" />
+
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeejiwo87&layout=compact&langs_count=8" />
 </p>
 <p>
