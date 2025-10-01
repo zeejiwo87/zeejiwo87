@@ -38,14 +38,11 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 
 ---
 
-### 📊 GitHub Stats
-<p>
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeejiwo87&layout=compact&langs_count=8" />
-</p>
-<p>
-  <img height="150" src="https://streak-stats.demolab.com?user=zeejiwo87" />
-</p>
+### 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeejiwo87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeejiwo87&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -57,6 +54,8 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 </p>
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/fckveza/fckveza/refs/heads/master/github-contribution-grid-snake-dark.svg)
 
 ### 🤝 Open to Collaboration
 Butuh tim untuk membangun produk Anda?  
