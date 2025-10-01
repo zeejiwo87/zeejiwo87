@@ -5,7 +5,7 @@ Ganti username/tautan bila perlu. Repo harus bernama: zeejiwo87/zeejiwo87
 
 <h1 align="left">Hi there 👋 I'm Ahmad Fauzy</h1>
 
-**Full Stack Developer** @ **VHtear**  
+**UI/UX Developer** @ **VHtear**  
 Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud** yang scalable.
 
 - 🏠 Malang, Indonesia  
