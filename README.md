@@ -1,7 +1,3 @@
-<!--
-README untuk profil GitHub.
-Ganti username/tautan bila perlu. Repo harus bernama: zeejiwo87/zeejiwo87
--->
 
 <h1 align="left">Hi there 👋 I'm Ahmad Fauzy</h1>
 
@@ -34,7 +30,6 @@ Membangun aplikasi **web & mobile**, **API & automation**, serta solusi **cloud*
 - 🚀 **Sosmedboost (2025)** — layanan booster sosial media (milik sendiri)  
   ↳ <a href="https://sosmedboost.com/id">sosmedboost.com/id</a>
 
-> Pin proyek di atas lewat **Customize your pins** di halaman profil supaya tampil di bagian depan.
 
 ---
 
